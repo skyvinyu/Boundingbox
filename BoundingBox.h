@@ -1,4 +1,4 @@
-ifndef BOUNDINGBOX_H_
+#ifndef BOUNDINGBOX_H_
 #define BOUNDINGBOX_H_
 
 #include "Point2d.h"
