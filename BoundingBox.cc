@@ -1,8 +1,15 @@
 
 #include "BoundingBox.h"
 
+#include <string>
+#include <vector>
 #include <limits>
 #include <cmath>
+#include <iostream>
+#include <sstream>
+#include <stdexcept>
+
+#include <boost/shared_ptr.hpp>
 
 namespace geo {
 
